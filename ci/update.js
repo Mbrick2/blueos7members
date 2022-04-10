@@ -1,7 +1,7 @@
 /* RUNS IN NODEJS ONLY! */
 const fetch = require("cross-fetch");
 const fs = require("fs");
-const id = 31229287; 
+const id = 31229283; 
 (async() => {
   let managers = [];
   let curators = [];
